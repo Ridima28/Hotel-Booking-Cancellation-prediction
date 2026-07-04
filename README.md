@@ -195,12 +195,10 @@ This model helps hotels:
 
 hotel-booking-cancellation/
 │
-├── data/
-├── notebooks/
-├── README.md
-└── model/
-
-
+├── H1.csv/
+|── Hotel-Booking-Cancellation.pkl/
+├── README.md                     
+└── model.ipynb                     
 ---
 
 ## 👨‍💻 Author
