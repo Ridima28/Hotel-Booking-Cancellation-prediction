@@ -189,17 +189,19 @@ This model helps hotels:
 - Deploy using Streamlit or Flask
 - Add real-time prediction API
 
----
 
 ## 📁 Project Structure
 
+```text
 hotel-booking-cancellation/
 │
-├── H1.csv/
-|── Hotel-Booking-Cancellation.pkl/
-├── README.md                     
-└── model.ipynb                     
----
+├── H1.csv
+├── Hotel-Booking-Cancellation.pkl
+├── model.ipynb
+└── README.md
+```       
+
+
 
 ## 👨‍💻 Author
 
